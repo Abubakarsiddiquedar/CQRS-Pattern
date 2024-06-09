@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oZlOxDT3MyXZjhy4lJcQfbUgYdSg0kbKFWOgNm292UcIQzcdlDcDma0pmHP2ZUrCbkD8pBmzIj4HaqTQCEEq/g==",
+  "dgSpecHash": "c/oOwB9v3FODe7lXwUBxcVszNtHlSTcWAfMXXqCSuqPjFEmWBNYr6c7LcTRN9OeH4jxqCcVKlt3zT8AIu/va5w==",
   "success": true,
-  "projectFilePath": "D:\\Food.Infrastructure\\Food.Infrastructure.csproj",
+  "projectFilePath": "D:\\CQRS\\Food.Infrastructure\\Food.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msaddique\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\msaddique\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",

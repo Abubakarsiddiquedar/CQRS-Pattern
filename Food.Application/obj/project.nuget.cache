@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2mBp9RcjsYud8HGEtmNpTwWKGXSkQps0s5kzakoZbN5oZmoXxNfqtYnL8B6mlmoOGcANVV9/D4pgFqzWrI6gww==",
+  "dgSpecHash": "FUnSC3GVhnF1PpPHCWgz3uR8nm+ISwXGjDrUQfSFTR+SwpdLUG/49FMrk6rG9mG1jQEvn6a42qJ29NZXIg4hGw==",
   "success": true,
-  "projectFilePath": "D:\\Food.Application\\Food.Application.csproj",
+  "projectFilePath": "D:\\CQRS\\Food.Application\\Food.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msaddique\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\msaddique\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",

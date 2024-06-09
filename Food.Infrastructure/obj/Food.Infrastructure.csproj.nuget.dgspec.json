@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Food.Infrastructure\\Food.Infrastructure.csproj": {}
+    "D:\\CQRS\\Food.Infrastructure\\Food.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Food.Application\\Food.Application.csproj": {
+    "D:\\CQRS\\Food.Application\\Food.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Food.Application\\Food.Application.csproj",
+        "projectUniqueName": "D:\\CQRS\\Food.Application\\Food.Application.csproj",
         "projectName": "Food.Application",
-        "projectPath": "D:\\Food.Application\\Food.Application.csproj",
+        "projectPath": "D:\\CQRS\\Food.Application\\Food.Application.csproj",
         "packagesPath": "C:\\Users\\msaddique\\.nuget\\packages\\",
-        "outputPath": "D:\\Food.Application\\obj\\",
+        "outputPath": "D:\\CQRS\\Food.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Food.Domain\\Food.Domain.csproj": {
-                "projectPath": "D:\\Food.Domain\\Food.Domain.csproj"
+              "D:\\CQRS\\Food.Domain\\Food.Domain.csproj": {
+                "projectPath": "D:\\CQRS\\Food.Domain\\Food.Domain.csproj"
               }
             }
           }
@@ -102,14 +102,14 @@
         }
       }
     },
-    "D:\\Food.Domain\\Food.Domain.csproj": {
+    "D:\\CQRS\\Food.Domain\\Food.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Food.Domain\\Food.Domain.csproj",
+        "projectUniqueName": "D:\\CQRS\\Food.Domain\\Food.Domain.csproj",
         "projectName": "Food.Domain",
-        "projectPath": "D:\\Food.Domain\\Food.Domain.csproj",
+        "projectPath": "D:\\CQRS\\Food.Domain\\Food.Domain.csproj",
         "packagesPath": "C:\\Users\\msaddique\\.nuget\\packages\\",
-        "outputPath": "D:\\Food.Domain\\obj\\",
+        "outputPath": "D:\\CQRS\\Food.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -162,14 +162,14 @@
         }
       }
     },
-    "D:\\Food.Infrastructure\\Food.Infrastructure.csproj": {
+    "D:\\CQRS\\Food.Infrastructure\\Food.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Food.Infrastructure\\Food.Infrastructure.csproj",
+        "projectUniqueName": "D:\\CQRS\\Food.Infrastructure\\Food.Infrastructure.csproj",
         "projectName": "Food.Infrastructure",
-        "projectPath": "D:\\Food.Infrastructure\\Food.Infrastructure.csproj",
+        "projectPath": "D:\\CQRS\\Food.Infrastructure\\Food.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\msaddique\\.nuget\\packages\\",
-        "outputPath": "D:\\Food.Infrastructure\\obj\\",
+        "outputPath": "D:\\CQRS\\Food.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -191,11 +191,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Food.Application\\Food.Application.csproj": {
-                "projectPath": "D:\\Food.Application\\Food.Application.csproj"
+              "D:\\CQRS\\Food.Application\\Food.Application.csproj": {
+                "projectPath": "D:\\CQRS\\Food.Application\\Food.Application.csproj"
               },
-              "D:\\Food.Persistance\\Food.Persistance.csproj": {
-                "projectPath": "D:\\Food.Persistance\\Food.Persistance.csproj"
+              "D:\\CQRS\\Food.Persistance\\Food.Persistance.csproj": {
+                "projectPath": "D:\\CQRS\\Food.Persistance\\Food.Persistance.csproj"
               }
             }
           }
@@ -243,14 +243,14 @@
         }
       }
     },
-    "D:\\Food.Persistance\\Food.Persistance.csproj": {
+    "D:\\CQRS\\Food.Persistance\\Food.Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Food.Persistance\\Food.Persistance.csproj",
+        "projectUniqueName": "D:\\CQRS\\Food.Persistance\\Food.Persistance.csproj",
         "projectName": "Food.Persistance",
-        "projectPath": "D:\\Food.Persistance\\Food.Persistance.csproj",
+        "projectPath": "D:\\CQRS\\Food.Persistance\\Food.Persistance.csproj",
         "packagesPath": "C:\\Users\\msaddique\\.nuget\\packages\\",
-        "outputPath": "D:\\Food.Persistance\\obj\\",
+        "outputPath": "D:\\CQRS\\Food.Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -272,8 +272,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Food.Application\\Food.Application.csproj": {
-                "projectPath": "D:\\Food.Application\\Food.Application.csproj"
+              "D:\\CQRS\\Food.Application\\Food.Application.csproj": {
+                "projectPath": "D:\\CQRS\\Food.Application\\Food.Application.csproj"
               }
             }
           }

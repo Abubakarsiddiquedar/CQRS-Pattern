@@ -1039,11 +1039,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Food.Application\\Food.Application.csproj",
+      "projectUniqueName": "D:\\CQRS\\Food.Application\\Food.Application.csproj",
       "projectName": "Food.Application",
-      "projectPath": "D:\\Food.Application\\Food.Application.csproj",
+      "projectPath": "D:\\CQRS\\Food.Application\\Food.Application.csproj",
       "packagesPath": "C:\\Users\\msaddique\\.nuget\\packages\\",
-      "outputPath": "D:\\Food.Application\\obj\\",
+      "outputPath": "D:\\CQRS\\Food.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1065,8 +1065,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Food.Domain\\Food.Domain.csproj": {
-              "projectPath": "D:\\Food.Domain\\Food.Domain.csproj"
+            "D:\\CQRS\\Food.Domain\\Food.Domain.csproj": {
+              "projectPath": "D:\\CQRS\\Food.Domain\\Food.Domain.csproj"
             }
           }
         }

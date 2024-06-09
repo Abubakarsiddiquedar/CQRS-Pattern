@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XvY18zw4mkNJIBKU+ajhfw5laHmGTPtJSMPl78SqA/+2Sty4qkWEsvMV8dkNL+9fbKmNKx3z+mGBcDChIQWQrg==",
+  "dgSpecHash": "mKofJrdi+VBsRnaM4NEqQtkFt4pFuGcj/Dt0yso72u4EjgoxSwgFFRtIuX/2jOLcHl9toIQ7XIi/kPm9s8Ub5g==",
   "success": true,
-  "projectFilePath": "D:\\Food.Domain\\Food.Domain.csproj",
+  "projectFilePath": "D:\\CQRS\\Food.Domain\\Food.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

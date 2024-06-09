@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Food.Domain\\Food.Domain.csproj",
+      "projectUniqueName": "D:\\CQRS\\Food.Domain\\Food.Domain.csproj",
       "projectName": "Food.Domain",
-      "projectPath": "D:\\Food.Domain\\Food.Domain.csproj",
+      "projectPath": "D:\\CQRS\\Food.Domain\\Food.Domain.csproj",
       "packagesPath": "C:\\Users\\msaddique\\.nuget\\packages\\",
-      "outputPath": "D:\\Food.Domain\\obj\\",
+      "outputPath": "D:\\CQRS\\Food.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
