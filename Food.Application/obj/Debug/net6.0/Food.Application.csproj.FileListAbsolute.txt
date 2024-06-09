@@ -1,0 +1,15 @@
+D:\Food.Application\bin\Debug\net6.0\Food.Application.deps.json
+D:\Food.Application\bin\Debug\net6.0\Food.Application.dll
+D:\Food.Application\bin\Debug\net6.0\Food.Application.pdb
+D:\Food.Application\bin\Debug\net6.0\Food.Domain.dll
+D:\Food.Application\bin\Debug\net6.0\Food.Domain.pdb
+D:\Food.Application\obj\Debug\net6.0\Food.Application.csproj.AssemblyReference.cache
+D:\Food.Application\obj\Debug\net6.0\Food.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Food.Application\obj\Debug\net6.0\Food.Application.AssemblyInfoInputs.cache
+D:\Food.Application\obj\Debug\net6.0\Food.Application.AssemblyInfo.cs
+D:\Food.Application\obj\Debug\net6.0\Food.Application.csproj.CoreCompileInputs.cache
+D:\Food.Application\obj\Debug\net6.0\Food.Application.csproj.CopyComplete
+D:\Food.Application\obj\Debug\net6.0\Food.Application.dll
+D:\Food.Application\obj\Debug\net6.0\refint\Food.Application.dll
+D:\Food.Application\obj\Debug\net6.0\Food.Application.pdb
+D:\Food.Application\obj\Debug\net6.0\ref\Food.Application.dll
